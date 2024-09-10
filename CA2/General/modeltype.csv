@@ -1,0 +1,9 @@
+Model Code, Model Type
+DT,Decision Tree
+RF,Random Forest
+LR,Linear Regression
+NN,Neural Network
+SVM,Support Vector Machine
+kNN,k-Nearest Neighbour
+LogR,Logistic Regression
+NB,Naive Bayes
